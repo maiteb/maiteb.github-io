@@ -1,33 +1,21 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Maitê Balhester
+email: maitebalhester@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+   This is Maitê Balhester's personal page, where she writes about technology,
+   feminism and life in general.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://maiteb.github.io" # the base hostname & protocol for your site
+twitter_username: mbalhester
+github_username:  maiteb
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
 post_type: highlight    # values [ highlight, default ]
 pagination_type: default  # values [ ops, default ]
 
-more_vert:
-  option1:
-    name: Cool Option 1
-    link: www.myawesomelink.com
-  option2:
-    name: Cool Option 2
-    link: www.myawesomelink.com
-  option3:
-    name: Cool Option 3
-    link: www.myawesomelink.com
-
 disqus: true
-disqus_shortname: 'gdgmanagua'
+disqus_shortname: 'mbalhester'
 
 # Build settings
 markdown: kramdown
