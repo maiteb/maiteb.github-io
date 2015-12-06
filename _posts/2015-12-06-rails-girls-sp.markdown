@@ -2,6 +2,7 @@
 layout: post
 title: Rails Girls SP 2015
 date: "2015-12-06 17:00:00"
+categories: "women-in-tech"
 image: "https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfp1/t31.0-8/12239204_939683582735846_1258973944263506252_o.jpg"
 ---
 
@@ -44,7 +45,9 @@ ilustrativa para as meninas que não estão acostumadas com os termos
 que usamos no nosso dia a dia de desenvolvimento e muito menos com as
 nossas metodologias.
 
-![Duas divas: Dhiana Deva e Beyoncé]({{ site.baseUrl }}/assets/palestra-dhiana.jpg "palestra-dhiana")
+
+![Duas divas: Dhiana Deva e Beyoncé](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xtf1/v/t1.0-9/12301616_940015182702686_7946256712431552044_n.jpg?oh=a33f35cc02464ccf9a5b1ecb7568057a&oe=56E47016&__gda__=1457878349_2900d4d898a7ec2ae0861583106e19ef "palestra-dhiana")
+*Duas Divas: Dhiana Deva e Beyoncé*
 
 Neste primeiro dia, eu conheci meu *coach* parceiro, o Murilo Campanema,
 e as meninas do meu time, o [Treecko][pokemon_treecko], além de poder ouvir um pouquinho da motivação
@@ -66,8 +69,8 @@ em produção do que eu mesma);
 - E a Mayara, que é engenheira ambiental, também influenciada pelo
 marido a aprender a programar, e era a mais tímida das meninas do time.
 
-![Treecko no primeiro dia]({{ site.baseUrl }}/assets/treecko-primeiro-dia.jpg
-"treecko-primeiro-dia")
+![Treecko no primeiro dia](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xat1/v/t1.0-9/11224762_940015296036008_6717033836940876174_n.jpg?oh=b5089cc976a3d7fd05f6d19cb5729c6f&oe=56D38EDD&__gda__=1461783810_6987bb54deadd4ef207d3a03b052a99d "treecko-primeiro-dia")
+*Time Treecko no primeiro dia*
 
 Além das meninas do meu time, pude conversar com outras meninas também,
 cada uma com a sua história. Uma delas foi outra Fernanda, que
@@ -91,8 +94,9 @@ uma sessão de planejamento para ver quais seriam as tarefas que elas
 precisariam executar para chegar no produto final (ou como nós da área
 chamamos, MVP ou o produto mínimo viável)
 
-![Treecko no segundo dia, e eu e meu quadril podre]({{ site.baseUrl }}/assets/treecko-segundo-dia.jpg,
+![Treecko no segundo dia, e eu e meu quadril podre](https://scontent-lga3-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/12313631_939223176115220_4022756153993099748_n.jpg?oh=a4c648c5517f95a7ecd8593e48a06a8c&oe=571DA8FF
 "treecko-segundo-dia")
+*Time treecko no segundo dia, e meu quadril podre*
 
 Depois da parada do almoço, foi a vez da Carol contar um pouco da
 história da mulherada na TI - e foi a palestra que mais deu pano pra
@@ -101,8 +105,9 @@ que a história da programação começou com a Ada Lovelace, uma mulher. E
 que teve como grande personagem na história a Grace Hooper, mulher e
 integrante da Marinha Americana (quer ambiente mais machista que isso?).
 
-![Ana Carolina e Grace Hooper]({{ site.baseUrl }}/assets/palestra-carol.jpg,
+![Ana Carolina e Grace Hooper](https://pbs.twimg.com/media/CU6Vy0jWcAARZGG.jpg
 "palestra-carol")
+*Palestra da Carol sobre mulheres na TI*
 
 Após a dose de polêmica, voltamos para a área de trabalho e continuamos
 a programar. Para mim, o mais legal era, além de compartilhar
@@ -167,13 +172,16 @@ Agora um pouco de massagem no meu ego:
 [Post da Ana Carolina elogiando o evento e a minha participação como
 coach][link_post_nacarol]
 
-![Post-it de feedback da Fernanda]({{ site.baseUrl }}/assets/post-it-feedback.jpg "post-it-feedback")
+![post-it-feedback](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/12277298_800491763393661_1902970015_n.jpg?oh=5a44873af1ae8ecf98d61c926551f151&oe=56675CE5&__gda__=1449535046_e02b58d2c690de829d58325834a070e1 "post-it-feedback")
+*Feedback da Fernanda sobre o evento*
+
 
 [railsgirlssp]: http://railsgirls.com/saopaulo2015
 [thoughtworks]: https://www.thoughtworks.com/pt/
 [twitter_carol]: https://twitter.com/carolpepita
 [twitter_barbara]: https://twitter.com/bahbbc
 [twitter_camila]: https://twitter.com/camposmilaa
+[twitter_flavia]: https://twitter.com/FlaFortes
 [twitter_dhiana]: https://twitter.com/dhianadeva
 [pokemon_treecko]: http://www.pokemon.com/br/pokedex/treecko
 [twitter_nacarol]: https://twitter.com/nacarolbjs
