@@ -27,7 +27,7 @@ pagination_type: default # values [ ops, default ]
 #
 
 disqus: true
-disqus_shortname: 'mbalhester'
+disqus_shortname: 'maiteb'
 
 # Build settings
 markdown: kramdown
