@@ -10,7 +10,7 @@ twitter_username: mbalhester
 github_username:  maiteb
 
 # Layout settings
-header_type: default  # values [ drawer, default ]
+header_type: drawer  # values [ drawer, default ]
 post_type: highlight    # values [ highlight, default ]
 pagination_type: default  # values [ ops, default ]
 
