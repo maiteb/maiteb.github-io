@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
             Esta é a minha página pessoal, onde vou escrever sobre eventos que participo, tecnologia,
             mulheres na computação, vida cotidiana e o que mais vier na telha :)
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://maiteb.github.io" # the base hostname & protocol for your site
+url: "maiteb.github.io" # the base hostname & protocol for your site
 twitter_username: mbalhester
 github_username:  maiteb
 
