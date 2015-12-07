@@ -167,10 +167,7 @@ Feedbacks das participantes
 
 [Post da Stéfanni Brasil sobre o Rails Girls][link_post_stefanni]
 
-Agora um pouco de massagem no meu ego:
-
-[Post da Ana Carolina elogiando o evento e a minha participação como
-coach][link_post_nacarol]
+[Post da Ana Carolina sobre o evento][link_post_nacarol]
 
 ![post-it-feedback](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/12277298_800491763393661_1902970015_n.jpg?oh=5a44873af1ae8ecf98d61c926551f151&oe=56675CE5&__gda__=1449535046_e02b58d2c690de829d58325834a070e1 "post-it-feedback")
 *Feedback da Fernanda sobre o evento*
